@@ -1,0 +1,34 @@
+{
+  "name": "woolford.io",
+  "description": "Alex Woolford's personal website.",
+  "version": "0.0.0",
+  "homepage": "http://woolford.io",
+  "main": "src/",
+  "keywords": [
+    "woolford",
+    "big data",
+    "hadoop"
+  ],
+  "license": "Apache-2.0",
+  "repository": {},
+  "author": {
+    "name": "Alex Woolford"
+  },
+  "contributors": [],
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "scripts": {
+    "windows": "cd ./src/ & lite-server",
+    "linux": "cd ./src/ ; lite-server"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2",
+    "vue-resource": "^0.9.3",
+    "vue": "^2.5.8",
+    "axios": "^0.17.1"
+  }
+}
