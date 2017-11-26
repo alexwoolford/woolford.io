@@ -2,7 +2,7 @@
 
 This is my first experience building a UI. I used [Vue.js](https://vuejs.org/) because it's fast and simple.
 
-Right now there a single page with an area to enter a list of IP addresses. The IP's are geolocated using the [geoip-lookup-service](https://github.com/alexwoolford/geoip-lookup-service).
+Right now there's a single page with an area to enter a list of IP addresses. The IP's are geolocated using the [geoip-lookup-service](https://github.com/alexwoolford/geoip-lookup-service).
 
 ![woolford.io screenshot](woolfordio_screenshot.png)
 
